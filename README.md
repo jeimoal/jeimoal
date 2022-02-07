@@ -1,6 +1,6 @@
 <img align="center" alt="jeimoal"  src="https://komarev.com/ghpvc/?username=jeimoal&style=flat-square">
-- 👋 Olá, eu sou Jeison Moura Alves (Jeimoal) </br>
-- 👀 E sou estudante de programação.  </br>
+- 👋 Olá, eu sou o Jeimoal<br>
+- 👀 E sou estudante de programação.<br>
 
 <div align="center">
   <a href="https://github.com/jeimoal">
