@@ -1,6 +1,9 @@
 <img align="center" alt="jeimoal"  src="https://komarev.com/ghpvc/?username=jeimoal&style=flat-square">
-- 👋 Olá, eu sou o Jeimoal<br>
-- 👀 E sou estudante de programação.</br>
+- 👋 Olá, eu sou o Jeimoal;<br>
+- 👍 sou formado em Processos Gerenciais;<br>
+- 🔥 Atualmente cursando Análise e Desenvolvimento de Sistemas;<br>.
+- 🖥️ Apaixonado por Tecnologia e Games 🎮;<br>
+- 🥋 Faixa preta em Taekwondo.
 </br>
 <div align="center">
   <a href="https://github.com/jeimoal">
